@@ -1,0 +1,21 @@
+.banner{
+    display:block;
+    margin: auto;
+    width: 100vw;
+    height: 50vh;
+    position:relative;
+}
+
+.bannerText{
+    position: relative;
+    top: 1px;
+    z-index: 20;
+    text-align:left;
+    font-size: 24px;
+    color: rgb(0, 91, 194);
+    background-color: rgb(247, 222, 156);
+    display: -webkit-inline-box;
+    padding: 25px 25px;
+    border-radius: 3cm;
+  
+}
